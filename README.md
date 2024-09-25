@@ -7,6 +7,8 @@ Get started with buying a dagger from the weapon shop. Then start fighting enemi
 
 You'll get cash from fighting a enemy, Which allows you to get more weapons, armor, potions, etc.
 
+# Questions
+
 ## How the attack and defense work
 
 The higher the attack is the higher damage you'll do to the enemy
@@ -29,4 +31,4 @@ BatchRPG Can crash if you just press enter on a option. This will be fixed in fu
 There's chances it can just crash outta the blue. So stay alert.
 
 
-Have fun!
+Have fun playing BatchRPG!
